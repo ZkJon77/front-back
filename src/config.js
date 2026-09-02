@@ -17,7 +17,7 @@
 //    has been blocked by CORS policy
 //
 export const API_URL =
-  import.meta.env.VITE_API_URL || "https://backend-3c.vercel.app";
+  import.meta.env.VITE_API_URL || "https://backend-env-cwai.vercel.app";
 
 // Chave usada para guardar o token no localStorage do navegador.
 export const CHAVE_SESSAO = "sessao-3c";
